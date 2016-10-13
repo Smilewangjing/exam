@@ -1,0 +1,13 @@
+[{
+  "id":1,
+  "name":"easy",
+  "realname":"简单"
+},{
+  "id":2,
+  "name":"medium",
+  "realname":"中等"
+},{
+  "id":3,
+  "name":"diffcult",
+  "realname":"难"
+}]

@@ -1,0 +1,33 @@
+[{
+	"type":"单选题",
+	"has":{
+		"department":"Html",
+		"topics":"Android",
+		"leve":"简单",
+		"question1":"李白的诗有哪些？？1111"
+	}
+},{
+	"type":"多选题",
+	"has":{
+		"department":"JavaScript",
+		"topics":"javaEE",
+		"leve":"难",
+		"question1":"李白的诗有哪些？？2222"
+	}
+},{
+	"type":"简答题",
+	"has":{
+		"department":"css",
+		"topics":"webUI",
+		"leve":"难",
+		"question1":"李白的诗有哪些？？3333"
+	}
+},{
+	"type":"单选题",
+	"has":{
+		"department":"jQuery",
+		"topics":"IOS",
+		"leve":"中等",
+		"question1":"李白的诗有哪些？？4444"
+	}
+}]
